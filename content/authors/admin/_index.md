@@ -11,11 +11,12 @@ social:
     icon: twitter
 organizations:
   - name: University of Chicago
-    url: ""
+    url: "https://college.uchicago.edu/academics/biological-sciences-collegiate-division"
 education:
   courses:
     - course: PhD in Applied Mathematics
       institution: University of Arizona
+      url: "https://appliedmath.arizona.edu/"
       year: 2005
     - course: MS in Applied Mathematics
       institution: University of Arizona
