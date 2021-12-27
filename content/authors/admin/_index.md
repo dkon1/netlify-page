@@ -3,7 +3,7 @@ role: Instructional Professor
 avatar_filename: my_face_sep21_1.jpeg
 bio: Applied mathematics and computations for biology
 interests:
-  - Qualitative education for biologists
+  - Quantitative education for biologists
   - R for data science
 social:
   - link: https://twitter.com/dkon1/
