@@ -1,13 +1,13 @@
 ---
 role: Instructional Professor
-avatar_filename: my_face_sep21_1.jpeg
+avatar_filename: avatar.jpeg
 bio: Applied mathematics and computations for biology
 interests:
   - Quantitative education for biologists
   - R for data science
 social:
   - link: https://twitter.com/dkon1/
-    icon_pack: far
+    icon_pack: academic
     icon: twitter
 organizations:
   - name: University of Chicago
