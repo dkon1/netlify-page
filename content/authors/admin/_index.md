@@ -7,7 +7,7 @@ interests:
   - R for data science
 social:
   - link: https://twitter.com/dkon1/
-    icon_pack: academic
+    icon_pack: fab
     icon: twitter
 organizations:
   - name: University of Chicago
