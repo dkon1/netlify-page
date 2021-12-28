@@ -1,6 +1,6 @@
 ---
 role: Instructional Professor
-avatar_filename: avatar.jpeg
+avatar_filename: Rozha.jpg
 bio: Applied mathematics and computations for biology
 interests:
   - Quantitative education for biologists
@@ -16,7 +16,6 @@ education:
   courses:
     - course: PhD in Applied Mathematics
       institution: University of Arizona
-      url: "https://appliedmath.arizona.edu/"
       year: 2005
     - course: MS in Applied Mathematics
       institution: University of Arizona
@@ -33,4 +32,4 @@ title: Dmitry Kondrashov
 email: dkon12@gmail.com
 ---
 
-Blah blah
+I love nature and quantitative modeling, and especially putting the two together. I teach quantitative skills to biology students; those include coding, mathematical modeling, and data analysis. I have taught high school students in Russia and medical professionals at an NIH course. Other passions include: music, both listening and playing; languages, both human and computer, labor unions in academia, and spending time with my family.
