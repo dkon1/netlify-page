@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Chicago, IL USA"
   date_start = "2007-09-01"
   date_end = ""
-  description = ""
+  description = """
   Responsibilities include:
   
   * Analysing
@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Madison, WI USA"
   date_start = "2005-01-01"
   date_end = "2007-08-31"
-  description = ""
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
