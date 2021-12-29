@@ -13,6 +13,10 @@ social:
   - link: https://github.com/dkon1?tab=repositories
     icon_pack: fab
     icon: github
+  - link: https://scholar.google.com/citations?user=FBL8qnUAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar   
+    
 organizations:
   - name: Biological Sciences Collegiate Division, University of Chicago
     url: "https://college.uchicago.edu/academics/biological-sciences-collegiate-division"

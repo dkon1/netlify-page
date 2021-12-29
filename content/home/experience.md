@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching courses and supervising TAs
+  * Curriculum development
+  * Director of quantitative biology specialization
   """
 
 [[experience]]
@@ -39,6 +39,6 @@ date_format = "Jan 2006"
   location = "Madison, WI USA"
   date_start = "2005-01-01"
   date_end = "2007-08-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Worked on course-grained modeling of protein dynamics using normal modes; collaborated with crystallographers to characterize conformational changes"""
 
 +++
